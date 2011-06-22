@@ -11,3 +11,9 @@ Installing your doc directory
 =============================
 
 Simple test d'installation et de lecture.
+
+ test de paragraphe.
+ 
+Test pour du code :
+
+  > sphinx-quickstart
