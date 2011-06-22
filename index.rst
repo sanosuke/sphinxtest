@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Bienvenue sur une page de documentation fictive
-======================================
+===============================================
 
 Contents:
 
@@ -20,4 +20,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
